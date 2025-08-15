@@ -22,7 +22,7 @@ import { ResetPasswordComponent } from './reset-password.component';
         RegisterComponent,
         VerifyEmailComponent,
         ForgotPasswordComponent,
-        ResetPasswordComponent
+        ResetPasswordComponent,
     ]
 })
 export class AccountModule { }

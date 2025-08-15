@@ -1,6 +1,6 @@
 export interface ActivityLog {
-  id: number;
-  userId: number;
+  activityLogId: number;
+  accountId: number;
   userEmail: string;
   userRole: string;
   userName: string;
